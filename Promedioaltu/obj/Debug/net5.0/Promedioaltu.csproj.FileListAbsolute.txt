@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\Altura\Promedioaltu\bin\Debug\net5.0\Promedioaltu.exe
+C:\Users\LENOVO\Desktop\Altura\Promedioaltu\bin\Debug\net5.0\Promedioaltu.deps.json
+C:\Users\LENOVO\Desktop\Altura\Promedioaltu\bin\Debug\net5.0\Promedioaltu.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Altura\Promedioaltu\bin\Debug\net5.0\Promedioaltu.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Altura\Promedioaltu\bin\Debug\net5.0\Promedioaltu.dll
+C:\Users\LENOVO\Desktop\Altura\Promedioaltu\bin\Debug\net5.0\ref\Promedioaltu.dll
+C:\Users\LENOVO\Desktop\Altura\Promedioaltu\bin\Debug\net5.0\Promedioaltu.pdb
+C:\Users\LENOVO\Desktop\Altura\Promedioaltu\obj\Debug\net5.0\Promedioaltu.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Altura\Promedioaltu\obj\Debug\net5.0\Promedioaltu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Altura\Promedioaltu\obj\Debug\net5.0\Promedioaltu.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Altura\Promedioaltu\obj\Debug\net5.0\Promedioaltu.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Altura\Promedioaltu\obj\Debug\net5.0\Promedioaltu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Altura\Promedioaltu\obj\Debug\net5.0\Promedioaltu.dll
+C:\Users\LENOVO\Desktop\Altura\Promedioaltu\obj\Debug\net5.0\ref\Promedioaltu.dll
+C:\Users\LENOVO\Desktop\Altura\Promedioaltu\obj\Debug\net5.0\Promedioaltu.pdb
+C:\Users\LENOVO\Desktop\Altura\Promedioaltu\obj\Debug\net5.0\Promedioaltu.genruntimeconfig.cache
